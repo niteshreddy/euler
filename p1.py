@@ -2,7 +2,7 @@
 
 def mul3and5():
     print '''Finding the sum all numbers which are 
-            multiples of 3 or 5.'''
+            multiples of 3 or 5 and are below and including thousand.'''
     sum = 0
     for x in range(1, 1000):
         if x%3 == 0:
