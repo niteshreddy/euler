@@ -31,4 +31,3 @@ def return_largest_prime(n):
 
 n = input()
 print return_largest_prime(n)
-
