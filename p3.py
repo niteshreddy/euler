@@ -22,9 +22,7 @@ def isprime(n):
 
 def return_largest_prime(n):
     i = 2
-    print n**0.5
     while i <= n:
-        print i
         if n%i == 0:
             if (isprime(i)): 
                 largest = i
