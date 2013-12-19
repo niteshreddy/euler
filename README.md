@@ -1,4 +1,4 @@
 euler
 =====
 
-Solutions to problems from projecteuler.net
+Some random stuff.
